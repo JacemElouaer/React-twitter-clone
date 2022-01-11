@@ -1,8 +1,12 @@
 import React from 'react'
+import TwitterIcon from '@mui/icons-material/Twitter';
+
+
 
 function Sidebar() {
     return (
-        <div>
+        <div className="sidebar">
+            <TwitterIcon />
             
         </div>
     )
